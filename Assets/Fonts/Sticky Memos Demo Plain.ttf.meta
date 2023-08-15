@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: c35e29d72fa59004d9a3cc7994903cc0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sticky Memos
+  fontNames:
+  - Sticky Memos
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a6ccdc80fd694c14e88d0cf8b00a7125, type: 3}
+  - {fileID: 12800000, guid: bdde288c9aff1b7429d7f6df1a04d477, type: 3}
+  - {fileID: 12800000, guid: 8ffe889c1d5102041965cf9dc19e4f6a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

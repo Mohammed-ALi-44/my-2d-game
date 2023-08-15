@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/StartMenu.unity
+    guid: df5b7797c8644104ea72f81fc000de85
+  - enabled: 1
+    path: Assets/Tiles Platformer/Scenes/TileMenu.unity
+    guid: 971a92dd82eba9b4cb8a2c17bffd513b
+  - enabled: 1
+    path: Assets/Tiles Platformer/Scenes/Tiles 1.unity
+    guid: 11a38ba5bbdeef947bbf81604be3f874
+  - enabled: 1
+    path: Assets/Tiles Platformer/Scenes/Tiles 2.unity
+    guid: 38291d51a2f718041a19f1c540b5583c
+  - enabled: 1
+    path: Assets/Tiles Platformer/Scenes/TilesSnow.unity
+    guid: ebca3b1d13439ca41848cf0671b2ad10
+  - enabled: 1
+    path: Assets/Tiles Platformer/Scenes/TILES FINISH.unity
+    guid: b1b4a9c7973eed541921b8464ad4a1f8
+  - enabled: 1
+    path: Assets/Space Shooter/Scenes/SpaceShooterMenu.unity
+    guid: a39096b2986e09547ad4556424a03205
+  - enabled: 1
+    path: Assets/Space Shooter/Scenes/SpaceShooter-1.unity
+    guid: b9146c444a7f9c647891be74b63d876a
+  - enabled: 1
+    path: Assets/Space Shooter/Scenes/SpaceShooter-4.unity
+    guid: 0c09992c9d2771d44bbfb1eabfde7f71
+  - enabled: 1
+    path: Assets/Space Shooter/Scenes/SpaceShooter-3.unity
+    guid: db7ca43bcb550a448ba99700012bf2ac
+  - enabled: 1
+    path: Assets/Block Breaker Assets/Scenes/B_level 1.unity
+    guid: c8790f77c8841654d9d1e67e766673df
+  - enabled: 1
+    path: Assets/Block Breaker Assets/Scenes/B_level 2.unity
+    guid: 7396133250b82104cacd8eb3b981f838
+  - enabled: 1
+    path: Assets/Block Breaker Assets/Scenes/B_win.unity
+    guid: 0372df33e5be07c46ab41476b396e91b
+  - enabled: 1
+    path: Assets/Block Breaker Assets/Scenes/B_game over.unity
+    guid: ea98515f6c244664e80ad62c3059b973
+  m_configObjects: {}

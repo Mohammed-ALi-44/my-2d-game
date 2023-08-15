@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 47b22acaccb08cf40b5df05e46a7aba5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Denis Freda
+  fontNames:
+  - Denis Freda
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 26eafef497f4b134e87bba84734d5836, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
